@@ -94,3 +94,22 @@
 .cloud .grid {
   grid-template-columns: 4fr 3fr;
 }
+
+.languages .card {
+  text-align: center;
+  margin: 18px 10px 40px;
+  transition: transform 0.3s ease-in;
+}
+
+.languages .card:hover {
+  transform: translateY(-18px);
+}
+
+.languages .flex {
+  flex-wrap: wrap;
+}
+
+.languages .card h4 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
