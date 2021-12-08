@@ -113,3 +113,16 @@
   font-size: 20px;
   margin-bottom: 10px;
 }
+
+.footer {
+  background-color: black;
+  color: #fff;
+}
+
+.footer a {
+  color: #fff;
+}
+
+.footer .social a {
+  margin: 0px 10px;
+}
